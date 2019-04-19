@@ -40,7 +40,7 @@
         ],
         "configuration": {
             "type": "object",
-            "title": "杨超越",
+            "title": "女神暴走了",
             "properties": {
                 "ycy.reminderViewIntervalInMinutes": {
                     "type": "number",
