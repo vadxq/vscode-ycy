@@ -32,7 +32,7 @@ export class ReminderView {
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>杨超越</title>
+            <title>女神暴走了！</title>
         </head>
         <body>
             <div><h1>${title}</h1></div>
